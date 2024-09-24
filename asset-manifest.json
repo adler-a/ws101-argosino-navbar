@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ws101-argosino-navbar/static/css/main.1e24fb8c.css",
+    "main.js": "/ws101-argosino-navbar/static/js/main.b3c9d134.js",
+    "static/js/453.dd42d34f.chunk.js": "/ws101-argosino-navbar/static/js/453.dd42d34f.chunk.js",
+    "index.html": "/ws101-argosino-navbar/index.html",
+    "main.1e24fb8c.css.map": "/ws101-argosino-navbar/static/css/main.1e24fb8c.css.map",
+    "main.b3c9d134.js.map": "/ws101-argosino-navbar/static/js/main.b3c9d134.js.map",
+    "453.dd42d34f.chunk.js.map": "/ws101-argosino-navbar/static/js/453.dd42d34f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e24fb8c.css",
+    "static/js/main.b3c9d134.js"
+  ]
+}
